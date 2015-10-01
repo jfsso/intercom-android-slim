@@ -1,0 +1,3 @@
+rule io.intercom.com.** com.@1
+rule io.intercom.okio.** okio.@1
+rule io.intercom.retrofit.** retrofit.@1
