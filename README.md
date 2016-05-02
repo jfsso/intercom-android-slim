@@ -6,8 +6,8 @@ Make sure to declare the dependencies of the Intercom Android SDK in your build.
 
 ```
 compile 'com.google.code.gson:gson:2.4'
-compile 'com.squareup.okhttp:okhttp:2.7.2'
-compile 'com.squareup.okhttp:okhttp-ws:2.7.2'
+compile 'com.squareup.okhttp:okhttp:2.7.5'
+compile 'com.squareup.okhttp:okhttp-ws:2.7.5'
 compile 'com.squareup.okio:okio:1.6.0'
 compile 'com.squareup:otto:1.3.8'
 compile 'com.squareup.picasso:picasso:2.5.2'

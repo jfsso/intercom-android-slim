@@ -1,6 +1,6 @@
 #!/bin/sh
 
-version="1.1.16"
+version="1.1.17"
 work_dir=`pwd`
 output_dir="$work_dir/output"
 temp_dir="$work_dir/temp"
