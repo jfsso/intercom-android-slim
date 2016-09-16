@@ -1,3 +1,5 @@
+**This project is no longer continued thanks to Intercom's official release of a library build with transitive dependencies! Check out this article for more info: [Using transitive dependencies with Intercom for Android](https://docs.intercom.com/configure-intercom-for-your-product-or-site/configure-intercom-for-mobile/using-transitive-dependencies-with-intercom-for-android).**
+
 # intercom-android-slim
 
 A small script to generate a "slim jar" for [Intercom Android SDK](https://github.com/intercom/intercom-android). Because fat-jars are [uncool](https://github.com/intercom/intercom-android/issues/126).
